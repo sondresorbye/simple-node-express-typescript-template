@@ -1,0 +1,17 @@
+html,
+body {
+    margin: 0;
+    font-family: arial;
+    color: #00ff00;
+    text-align: center;
+}
+
+body {
+    background: black;
+}
+
+
+h1 {
+    background: #00ff00;
+    color: black;
+}
